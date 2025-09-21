@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizkartz</h1>
-<h3 align="center">A web dev adn UI/UX designer</h3>
+<h3 align="center">A web dev and UI/UX designer from Indonesia </h3>
 
 - 🌱 I’m currently learning **Every Javascript Framework and Machine Learning**
 
